@@ -1,1 +1,3 @@
 hi testing 123
+
+added error checking
